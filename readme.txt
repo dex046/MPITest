@@ -9,4 +9,8 @@ Creating a new branch is quick AND simple.
 
 git merge --no-ff method
 
-this is from master
+<<<<<<< HEAD
+this step i want to stash
+=======
+this step i want to stash
+>>>>>>> master
