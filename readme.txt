@@ -8,3 +8,5 @@ Creating a new branch is quick AND simple.
 >>>>>>> featurel
 
 git merge --no-ff method
+
+this step i want to stash
