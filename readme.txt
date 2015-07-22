@@ -14,3 +14,5 @@ this step i want to stash
 =======
 this step i want to stash
 >>>>>>> master
+
+i want to master
